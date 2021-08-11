@@ -1,25 +1,9 @@
-Number and name of feature: Feature #1: Display images
 
-Estimate of time needed to complete: 10min
+Number and name of feature: Feature #1: Display a Modal
 
-Actual time needed to complete: 15
+Estimate of time needed to complete: 5 hours
 
----------------------------
-
-
-Number and name of feature: Feature #2: Allow users to vote for their favorite beast
-
-Estimate of time needed to complete: 15min
-
-Actual time needed to complete: 25
-
----------------------------------
-
-Number and name of feature: Feature 3: Bootstrap
-
-Estimate of time needed to complete: 30min
-
-Actual time needed to complete: 45
+Actual time needed to complete: 2 days
 
 -------------------------------------
 

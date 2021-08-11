@@ -7,30 +7,13 @@ import SelectedBeast from './components/SelectedBeast';
 
 class App extends React.Component {
 
-  constructor(props) {
-    super(props);
-    this.state = {
-      stateOfModal: false
-    }
-  }
-  modalClose = () => {
-    this.setState({
-      stateOfModal: false
-    })
-  }
-  modalOpen = () => {
-    this.setState({
-      stateOfModal: true
-    })
-
-
-  }
+  
  
   render() {
     return (
       <>
         <Header />
-        <Main modalOpen={this.modalOpen}/>
+        <Main />
         {/* <SelectedBeast /> */}
         <Footer />
       </>
