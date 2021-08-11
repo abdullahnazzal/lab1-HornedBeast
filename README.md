@@ -1,9 +1,9 @@
 
-Number and name of feature: Feature #1: Display a Modal
+Number and name of feature: Feature #1: Feature 1. Filter by Numbers of Horns
 
-Estimate of time needed to complete: 5 hours
+Estimate of time needed to complete: 1:30 hours
 
-Actual time needed to complete: 2 days
+Actual time needed to complete: 2 hours
 
 -------------------------------------
 

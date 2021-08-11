@@ -6,10 +6,7 @@ import Button from 'react-bootstrap/Button'
 
 
 class HornedBeasts extends React.Component {
-    // const[show, setShow] = useState(false);
 
-    // const handleClose = () => setShow(false);
-    // const handleShow = () => setShow(true);
     constructor(props) {
         super(props);
         this.state = {
@@ -17,30 +14,7 @@ class HornedBeasts extends React.Component {
 
         }
     }
-    // constructor(props) {
-    //     super(props);
-    //     this.state = {
-    //         stateOfModal: false
-    //     }
-    //   }
-    // modalOpen = () => {
-    //     this.setState({
-    //         stateOfModal: true,
-
-
-    //     })
-
-    // }
-    // }
-    // modalClose = () => {
-    //     this.setState({
-    //         stateOfModal: false
-    //     })
-    // }
-
-
     
-
     increaseVotes = () => {
         this.setState({
             numberOfVotes: this.state.numberOfVotes + 1
