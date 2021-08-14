@@ -21,6 +21,7 @@ Estimate of time needed to complete: 30min
 
 Actual time needed to complete: 45
 
+--------------------------------------------
 
 # Getting Started with Create React App
 
